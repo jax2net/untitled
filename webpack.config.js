@@ -5,6 +5,6 @@ module.exports = {
     mode: 'development',
     output: {
         filename: 'app.build.js',
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'build'),
     },
 };
